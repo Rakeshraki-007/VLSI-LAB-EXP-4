@@ -54,7 +54,7 @@ endmodule
 
 ### Output:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/4baabba2-7e30-4587-a960-75a588677d4c)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-4/assets/161815387/e57631ff-b4fb-47c2-b54a-cbac7d344c45)
 
 
 
@@ -89,7 +89,8 @@ endmodule
 
 ### Output:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/77f7512b-8bd4-4491-9ecb-fbbdd1512946)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-4/assets/161815387/c03ffd2a-459c-4c8d-9ede-eb8d70d736cc)
+
 
 
 ## T FLIPFLOP:
@@ -118,7 +119,7 @@ endmodule
 
 ### Output:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/97dda3a9-e2f5-4cfe-81fa-1e3b444a4a1d)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-4/assets/161815387/9a479fd6-3923-4cd3-aef6-b93123b29af9)
 
 
 
@@ -146,8 +147,7 @@ endmodule
 
 ### Output:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/1d8b7801-c95e-467e-aa6d-a73963c7858e)
-
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-4/assets/161815387/6013e07d-d982-4e1d-b385-b9242806f063)
 
 ## COUNTER:
 
@@ -159,7 +159,8 @@ endmodule
 
 ### Logic Diagram:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/85acb718-12c3-4a72-b39d-86af8fc6d98d)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-4/assets/161815387/d90433a2-1e8c-4c29-8500-fba807b45891)
+
 
 
 
@@ -183,14 +184,15 @@ endmodule
 
 ### Output:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/a05afbf3-5d51-440e-8751-8a8db642548a)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-4/assets/161815387/41169089-0ed7-4da2-bec0-b794946dc108)
 
 
 ## Mod-10 Counter:
 
 ### Logic Diagram:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/7f34c387-c4a2-42e9-92d3-8ad10a7fe658)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-4/assets/161815387/70d78875-431f-4ec1-8ac8-0ed0be5d0485)
+
 
 
 
@@ -212,19 +214,18 @@ endmodule
 
 ### Output:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/3d51965f-70ad-403f-a908-3978b841d049)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-4/assets/161815387/4b7aee89-e4b2-4028-9e0e-7d5f33652e08)
 
 
 ## Ripple Carry Counter:
 
 ### Logic Diagram:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/86953473-e21f-4185-ad89-fe8965cefa24)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-4/assets/161815387/d7b51766-9899-47e6-9c31-b11780754f9b)
 
 
 
-
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/d7c60d2a-64f8-47e8-b144-e1b81aee87e9)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-4/assets/161815387/42665fce-6854-4b30-9fe1-3331a60b6954)
 
 
 
@@ -265,8 +266,7 @@ endmodule
 
 ### Output:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-4/assets/159053561/fa96f225-df0b-4637-9912-6e6444ee95f7)
-
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-4/assets/161815387/a572f811-3230-4f28-ad2e-d5a255659cf5)
 
 ## RESULT:
  Hence SR, JK, T, D - FLIPFLOP, COUNTER DESIGN are simulated and synthesised using Xilinx ISE.
